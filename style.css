@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 1px solid black;
+    position: fixed;
+    top: 50%;
+    left: 40%;
+}
+
+.player, .cpu{
+   padding: 10px;
+}
